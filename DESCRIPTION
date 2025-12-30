@@ -1,0 +1,13 @@
+Package: NPBayes
+Version: 0.8
+Date: 2014-9
+Title: Nonparametric Bayes estimator of CDF with censored/truncated
+        data
+Author: Mai Zhou
+Maintainer: Mai Zhou <mai@ms.uky.edu>
+Depends: R (>= 2.15), Rmpfr
+Description: Nonparametric Bayes estimator of CDF with censored data, using
+	Dirichlet process prior, and squared error loss. It can handle
+        interval censored data. Now handles right censor, left truncated data too.
+License: GPL (>= 2)
+Packaged: 2014-09-19 05:28:41 UTC; mai
